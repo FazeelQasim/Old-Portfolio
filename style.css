@@ -1,0 +1,11 @@
+:root{
+    --grn: rgb(0, 130, 0);
+    --grn1: rgb(50, 200, 0);
+    --red: rgb(255, 0, 0);
+    --red1: rgb(200, 50, 0);
+    --drk: rgb(53, 2, 2);
+/* animation */
+    --fade-in: ;
+    --slide-in-right: ;
+    --slide-in-left: ;
+}
